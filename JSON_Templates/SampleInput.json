@@ -1,0 +1,21 @@
+{
+    "companyName": "Smamonas",
+    "trustedLocations": [
+        {
+            "location": "Main Office - 555 Main Street",
+            "ip": "192.168.1.1/32"
+        },
+        {
+            "location": "Secondary Office - 123 Alphabet Avenue",
+            "ip": "172.0.0.1/32"
+        }
+    ],
+    "allowedCountries": [
+        "US",
+        "GB"
+    ],
+    "signInFrequency": {
+        "value": "30",
+        "unit": "days"
+    }
+}
